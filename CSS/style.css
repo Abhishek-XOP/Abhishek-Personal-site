@@ -1,0 +1,236 @@
+body{
+	margin: 0;
+	font-family: montserrat;
+}
+.heading{
+	background-color: #BDF7FA;
+}
+.heading-name{
+	font-family: sofia;
+	font-size: 65px;
+	text-align: center;
+	height: 50px;
+	width: 450px;
+	margin-left: 530px;
+}
+.heading-name:hover{
+	font-family:roboto slab;
+	font-size: 69px;
+}
+.pro{
+	text-decoration: underline;
+	text-decoration-color: #FF0000;
+}
+.programmer{
+	font-family: Montserrat;
+	font-weight: normal;
+	font-size: 31px;
+	text-align: center;
+	width: 250px;
+	margin-left: 630px;
+
+}
+.programmer:hover{
+	font-family: poppins;
+}
+.mountain-img{
+	margin-left: 300px;
+}
+.top-cloud{
+	position: relative;
+	left: 1050px;
+	top: 60px;
+}
+.bottom-cloud{
+	position: relative;
+	bottom: 350px;
+	left:380px;
+}
+hr{
+
+	border-top: 15px dotted lime;
+	border-bottom: 0px;
+	border-right: 0px;
+	border-left: 0px;
+	width: 150px;
+	margin:110px 685px ;
+}
+.hello{
+	font-size: 60px;
+	font-weight: 200;
+	font-family: poppins;
+	height: 35px;
+}
+.bharat{
+	font-size: 30px;
+	color: black;
+	line-height: 3;
+}
+.hello:hover{
+	font-weight: 300;
+	text-shadow: 2px 2px 4px #000000;
+}
+.bharat:hover{
+    color: #FF8B0E;
+}
+.boy-img{
+	height: 300px;
+	width: auto;
+    margin-left:0px;
+    margin-top: 20px;
+}
+.myskills{
+	font-family: roboto slab;
+	font-weight: 300;
+	font-size: 60px;
+}
+.myskills:hover{
+	color: #3EFFEB;
+	text-shadow:2px 2px 4px #61FFF9;
+}
+.giphy-img{
+	width: 32%;
+}
+.graphic-img{
+    width: 75%;
+    position: relative;
+    right: 300px
+}
+.galshir-img{
+	width: 38%;
+	position:absolute;
+	top: 2445px;
+	left: 800px;
+}
+.computer-screen-img{
+	width: 10%;
+	position: relative;
+	left: 300px;
+	bottom: 170px;
+}
+.graphic-designer2-img{
+	position: relative;
+	bottom: 240px;
+    left: 70px;
+    width: 80px;
+}
+.cloud-processing{
+	position: relative;
+	bottom: 610px;
+	left: 520px;
+}
+.web-development{
+	font-size:32px;
+	font-family: poppins;
+	color:  black;
+	height: 20px;
+}
+.graphic-design{
+	font-size:32px;
+	font-family: poppins;
+	color:  black;
+	height: 20px;
+}
+.p{
+	font-family: roboto slab;
+	font-size: 20px;
+	font-weight: 300;
+}
+.p2{
+	font-family: roboto slab;
+	font-size: 20px;
+	font-weight: 300;
+}
+.p3{
+	font-family: poppins;
+	font-size: 30px;
+	font-weight: 300;
+	width: 50%;
+	margin-left: 340px;
+	padding:34px;
+	margin-top: 70px; 
+	padding-bottom: 10px;
+	margin-bottom: 1px;
+}
+.hr-bottom{
+	margin-bottom: 70px;
+}
+.get-in-touch{
+	font-size: 50px;
+	font-weight: lighter;
+	font-family: roboto slab;
+	height: 26px;
+}
+.get-in-touch:hover{
+	font-weight: 400;
+	text-shadow: 2px 2px #ff0000;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align:left;
+    line-height: 2;
+}
+.footer{
+	background-color: #000000;
+	color: white;
+	margin: 0;
+	padding: 20px;
+	font-family: roboto slab;
+}
+.night-mountain{
+	margin-left: 70%;
+}
+.last{
+	font-size: 20px;
+}
+.middle-container{
+	text-align: center;
+}
+.btn {
+  background: #45f9ff;
+  background-image: -webkit-linear-gradient(top, #45f9ff, #4f4cff);
+  background-image: -moz-linear-gradient(top, #45f9ff, #4f4cff);
+  background-image: -ms-linear-gradient(top, #45f9ff, #4f4cff);
+  background-image: -o-linear-gradient(top, #45f9ff, #4f4cff);
+  background-image: linear-gradient(to bottom, #45f9ff, #4f4cff);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  -webkit-box-shadow: 3px 8px 22px #707070;
+  -moz-box-shadow: 3px 8px 22px #707070;
+  box-shadow: 3px 8px 22px #707070;
+  font-family:poppins;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 11px 23px 12px 23px;
+  text-decoration: none;
+  margin-left: 110px;
+}
+.btn:hover {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #ffe019);
+  background-image: -moz-linear-gradient(top, #ff0000, #ffe019);
+  background-image: -ms-linear-gradient(top, #ff0000, #ffe019);
+  background-image: -o-linear-gradient(top, #ff0000, #ffe019);
+  background-image: linear-gradient(to bottom, #ff0000, #ffe019);
+  text-decoration: none;
+  color: black;
+}
+a{
+ color: #98FDF9;
+ text-decoration: none;
+}
+a:hover{
+	color: #EBFF10;
+	text-decoration: none;
+}
+.contact-me{
+	padding: 50px;
+}
+.div{
+	 width: 100%;
+  height: 5px;
+  background-color: #00FF0C;
+  background-size: 400% 400%;
+}
